@@ -3,6 +3,19 @@ To create a modern, professional website with advanced features and design eleme
 
 ---
 
+    JFL IT Lab
+    Added Features
+    Bootstrap: Responsive grid and components.
+    Font Awesome: Modern icons.
+    Swiper.js: Advanced carousels.
+    Animate.css: Eye-catching animations.
+    AOS (Animate On Scroll): Animation when elements scroll into view.
+    DataTables: Interactive and searchable tables.
+    Select2 Dropdown: Allows searchable dropdowns.
+    CountUp.js: Provides animated number counters.
+    Mega Menu: Wide dropdown in the navbar.
+    DataTables, Swiper, AOS, Animate.css: Enhancements retained for smooth UI/UX.
+
 ### **1. Base CSS Frameworks**
 - **[Bootstrap](https://getbootstrap.com/):** A responsive CSS framework for grids, buttons, forms, and components.
 - **[Tailwind CSS](https://tailwindcss.com/):** A utility-first CSS framework for rapid custom design.
